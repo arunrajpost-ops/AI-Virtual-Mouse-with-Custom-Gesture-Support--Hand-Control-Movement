@@ -164,9 +164,7 @@ Integration with voice commands
 
 ### 🖱️ AI Virtual Mouse in Action
 
-<p align="center">
-  <img src="images/Screenshot 2026-03-08 152721.png" alt="AI Virtual Mouse Working" width="900">
-</p>
+
 
 ## 👨‍💻 Author
 
