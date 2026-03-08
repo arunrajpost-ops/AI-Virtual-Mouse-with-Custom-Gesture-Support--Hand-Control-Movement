@@ -152,6 +152,14 @@ Integration with voice commands
 
 ---
 
+## 📸 Project Screenshots
+
+### 🖥️ Virtual Mouse Gesture Controller Interface
+
+<p align="center">
+  <img src="images/Screenshot 2026-03-08 151807.png" width="900">
+</p>
+
 ## 👨‍💻 Author
 
 **Arun Raj**
